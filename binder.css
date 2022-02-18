@@ -1,0 +1,18 @@
+.heading{
+width: 100%; 
+font-size: x-large;
+margin-top: 0px;   
+}
+.link{
+width: 80px;
+background-color: rgb(114, 190, 165);  
+font-size: larger;  
+float: right;
+}
+canvas{
+    box-shadow: 10px 10px 10px rgb(184, 96, 96);
+    border-radius:10px;    
+}
+body{
+background-position: center;    
+}
